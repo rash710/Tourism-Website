@@ -17,6 +17,12 @@ nav{
 	color: #fff;
 	z-index: 999;
 }
+nav{
+	width: 100%;
+	height: auto;
+	color: #fff;
+	z-index: 999;
+}
 .upper_navbar{
 	background-color: #112255; 
 }
